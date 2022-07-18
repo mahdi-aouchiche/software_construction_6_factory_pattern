@@ -29,4 +29,8 @@ using namespace std;
 #include "trunc.hpp"
 #include "paren.hpp"
 
+/* Factory pattern classes */
+#include "factory_master.hpp"
+#include "factory_expression_tree.hpp"
+
 #endif  //__HEADERS_HPP__
