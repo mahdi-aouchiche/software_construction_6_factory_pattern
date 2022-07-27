@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(CS100_Lab4 VERSION 4.0.0)
+project(CS100_Lab6 VERSION 6.0.0)
 
 add_subdirectory(${CMAKE_BINARY_DIR}/../googletest)
 
